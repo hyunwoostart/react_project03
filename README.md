@@ -1,4 +1,4 @@
-# 영화 박스오피스 순위 앱
+# 영화 박스오피스 순위 사이트
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
